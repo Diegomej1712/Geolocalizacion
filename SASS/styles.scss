@@ -34,6 +34,21 @@ body {
   }
 }
 
+.mapGRC {
+  width: 100%;
+  height: 50vh;
+  
+  iframe {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.iconsContact {
+  width: 20%;
+  height: 10%;
+}
+
 .modal {
   z-index: 1000;
   background-color: rgba(0, 0, 0, 0.5);

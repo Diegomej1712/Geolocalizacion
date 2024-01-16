@@ -61,7 +61,7 @@ function initMap()
                 handleLocationError(true, infoWindow, map.getCenter());
                 },
             );
-        }, 5000);
+        }, 3000);
     } 
     else 
     {
